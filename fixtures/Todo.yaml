@@ -1,0 +1,3 @@
+App\Entity\Todo:
+  Todo_0 (template):
+    content: <word()>

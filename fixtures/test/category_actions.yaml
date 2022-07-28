@@ -1,0 +1,2 @@
+App\Entity\Category:
+  Category_{1..5} (extends Category_0):
